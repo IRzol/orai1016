@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "orai1016", "orai1016\orai1016.csproj", "{A71DAFC5-7B22-4FBC-99BC-42CD0C586C27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A71DAFC5-7B22-4FBC-99BC-42CD0C586C27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A71DAFC5-7B22-4FBC-99BC-42CD0C586C27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A71DAFC5-7B22-4FBC-99BC-42CD0C586C27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A71DAFC5-7B22-4FBC-99BC-42CD0C586C27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E14A358-9D80-4658-A751-CE444AAE2A94}
+	EndGlobalSection
+EndGlobal
