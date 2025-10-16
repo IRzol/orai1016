@@ -13,7 +13,7 @@ namespace orai1016
             Console.Write("Kérem, adjon meg egy 4 számjegyű kódot: ");
             int kod = int.Parse(Console.ReadLine());
             Console.Write("Kérem, adja meg a szót: ");
-            string kodolando = Console.ReadLine();
+            string kodolando = Console.ReadLine().ToLower();
             Console.WriteLine($"Átalakított szó: {Kodolo(kodolando, kod)}");
         }
         static string Kodolo (string szoveg, int szam)
